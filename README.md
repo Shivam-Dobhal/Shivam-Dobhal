@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Shivam-Dobhal
+# 👋 Hi, I’m Shivam-Dobhal
 - 👀 I’m interested in Command line and programming
 - 🌱 I’m currently learning Java and Python
 
